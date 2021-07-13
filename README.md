@@ -1,4 +1,5 @@
-# UnicodeImage
+# Unicode Image Generator
+
 
 A C# script which creates Unicode Images based on the Image you provided.
 
