@@ -10,7 +10,7 @@ namespace DrawImage
     {
         static void Main()
         {
-            Image Picture = Image.FromFile(""); //Put Your picture here
+            Image Picture = Image.FromFile(""); //Put Your picture's location here.
             Console.SetBufferSize((Picture.Width * 0x2), (Picture.Height * 0x2));
             Console.WindowWidth = 180;
             Console.WindowHeight = 61;
